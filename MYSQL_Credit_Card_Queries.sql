@@ -1,9 +1,9 @@
 -- Creating Database 
-CREATE DATABASE ccdb;
+CREATE DATABASE IF NOT EXISTS ccdb;
 
 -- Create Table 
  CREATE TABLE cc_detail (
-    Client_Num INT,
+    Client_Num INT PRIMARY KEY,
     Card_Category VARCHAR(20),
     Annual_Fees INT,
     Activation_30_Days INT,
