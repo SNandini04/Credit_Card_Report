@@ -26,6 +26,7 @@ To build a dynamic and visually compelling Power BI dashboard that:
 ## Dataset Used 
 - <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/credit_card.csv">Credit Card Detail Dataset</a>
 - <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/customer.csv">Customer Details Dataset</a>
+- <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/MYSQL_Credit_Card_Queries.sql">Mysql_database_setup.sql</a>
 
 - Customer Dashboard Interaction <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/Customer_Report.png">View Customer Dashboard</a>
 - Transaction Dashboard Interaction <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/Transaction_Report.png">View Transaction Dashboard</a>
