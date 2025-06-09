@@ -2,7 +2,26 @@
 - Developed an interactive dashboard using transaction and customer data from a SQL database,to provide real-time insights.
 
 ## Project Objective
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends,enabling stakeholders to monitor and analyze credit card operations effectively.
+To build a dynamic and visually compelling Power BI dashboard that:
+- Highlights **transaction trends** across different demographics.
+- Segments customers based on **card type, location, and gender**.
+- Aids stakeholders in making decisions on **marketing campaigns**, **credit risk**, and **customer acquisition strategies**.
+
+
+## ⚙️ Technologies Used
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Excel (.xlsx)** 
+- **MySQL** 
+
+
+## 📊 Key Features & Metrics
+- ✅ Interactive Slicers: Filter data by gender, age group, city, and card type.
+- 📈 KPIs: Total Transaction Amount, Transaction Volume, Average Spend.
+- 🧑‍🤝‍🧑 Customer Demographics: Analyze distribution of card usage across age and gender.
+- 🌍 Location Insights: Spending patterns by cities.
+- 📉 Visuals: Bar charts, pie charts, donut charts, card visuals.
+
 
 ## Dataset Used 
 - <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/credit_card.csv">Credit Card Detail Dataset</a>
@@ -11,6 +30,13 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Dashboard Interaction <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/Customer_Report.png">View Customer Dashboard</a>
 - Dashboard Interaction <a href="https://github.com/SNandini04/Credit_Card_Report/blob/main/Transaction_Report.png">View Transaction Dashboard</a>
 
+## Business Insights Derived
+- Platinum cardholders have higher average spend compared to Gold users.
+- Female users in metro cities contribute significantly to transaction volume.
+- Spending is higher among the **25–35 age group**, indicating a key target demographic.
+- Tier-1 cities show a consistent rise in credit card adoption.
+
+  
 ## Project Insights 
 #### Wow Change (Week 53) :
 - Revenue increased by 28.8%
